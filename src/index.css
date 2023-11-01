@@ -4,5 +4,6 @@
 }
 
 html, body, #root, .APP {
-  min-height: 100;
+  height: 100vh;
+  background: linear-gradient(#2A00B7, #42006C);
 }
